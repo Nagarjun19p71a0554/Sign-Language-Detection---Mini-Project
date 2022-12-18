@@ -1,0 +1,1 @@
+# Sign-Language-Detectin---Mini-Project
